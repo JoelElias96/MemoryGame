@@ -1,0 +1,35 @@
+C:\Users\fefel\Documents\GitHub\Csharp-class-HW\hw2\HW2_MemoryGame\HW2_MemoryGame\obj\Debug\HW2_Main.csproj.AssemblyReference.cache
+C:\Users\fefel\Documents\GitHub\Csharp-class-HW\hw2\HW2_MemoryGame\HW2_MemoryGame\obj\Debug\HW2_Main.csproj.CoreCompileInputs.cache
+C:\Users\fefel\Documents\GitHub\Csharp-class-HW\hw2\HW2_MemoryGame\HW2_MemoryGame\bin\Debug\HW2_MemoryGame.exe.config
+C:\Users\fefel\Documents\GitHub\Csharp-class-HW\hw2\HW2_MemoryGame\HW2_MemoryGame\bin\Debug\HW2_MemoryGame.exe
+C:\Users\fefel\Documents\GitHub\Csharp-class-HW\hw2\HW2_MemoryGame\HW2_MemoryGame\bin\Debug\HW2_MemoryGame.pdb
+C:\Users\fefel\Documents\GitHub\Csharp-class-HW\hw2\HW2_MemoryGame\HW2_MemoryGame\bin\Debug\Ex02.ConsoleUtils.dll
+C:\Users\fefel\Documents\GitHub\Csharp-class-HW\hw2\HW2_MemoryGame\HW2_MemoryGame\bin\Debug\MemoryGame.exe
+C:\Users\fefel\Documents\GitHub\Csharp-class-HW\hw2\HW2_MemoryGame\HW2_MemoryGame\bin\Debug\MemoryGame.pdb
+C:\Users\fefel\Documents\GitHub\Csharp-class-HW\hw2\HW2_MemoryGame\HW2_MemoryGame\bin\Debug\MemoryGame.exe.config
+C:\Users\fefel\Documents\GitHub\Csharp-class-HW\hw2\HW2_MemoryGame\HW2_MemoryGame\obj\Debug\HW2_Main.csproj.Up2Date
+C:\Users\fefel\Documents\GitHub\Csharp-class-HW\hw2\HW2_MemoryGame\HW2_MemoryGame\obj\Debug\HW2_MemoryGame.exe
+C:\Users\fefel\Documents\GitHub\Csharp-class-HW\hw2\HW2_MemoryGame\HW2_MemoryGame\obj\Debug\HW2_MemoryGame.pdb
+C:\Users\fefel\Documents\GitHub\Csharp-class-HW\hw2\B24 Ex02 JoelElias 313914699 FernandoLegarda 327077145\HW2_MemoryGame\bin\Debug\HW2_MemoryGame.exe.config
+C:\Users\fefel\Documents\GitHub\Csharp-class-HW\hw2\B24 Ex02 JoelElias 313914699 FernandoLegarda 327077145\HW2_MemoryGame\bin\Debug\HW2_MemoryGame.exe
+C:\Users\fefel\Documents\GitHub\Csharp-class-HW\hw2\B24 Ex02 JoelElias 313914699 FernandoLegarda 327077145\HW2_MemoryGame\bin\Debug\HW2_MemoryGame.pdb
+C:\Users\fefel\Documents\GitHub\Csharp-class-HW\hw2\B24 Ex02 JoelElias 313914699 FernandoLegarda 327077145\HW2_MemoryGame\bin\Debug\Ex02.ConsoleUtils.dll
+C:\Users\fefel\Documents\GitHub\Csharp-class-HW\hw2\B24 Ex02 JoelElias 313914699 FernandoLegarda 327077145\HW2_MemoryGame\bin\Debug\MemoryGame.exe
+C:\Users\fefel\Documents\GitHub\Csharp-class-HW\hw2\B24 Ex02 JoelElias 313914699 FernandoLegarda 327077145\HW2_MemoryGame\bin\Debug\MemoryGame.pdb
+C:\Users\fefel\Documents\GitHub\Csharp-class-HW\hw2\B24 Ex02 JoelElias 313914699 FernandoLegarda 327077145\HW2_MemoryGame\bin\Debug\MemoryGame.exe.config
+C:\Users\fefel\Documents\GitHub\Csharp-class-HW\hw2\B24 Ex02 JoelElias 313914699 FernandoLegarda 327077145\HW2_MemoryGame\obj\Debug\HW2_Main.csproj.AssemblyReference.cache
+C:\Users\fefel\Documents\GitHub\Csharp-class-HW\hw2\B24 Ex02 JoelElias 313914699 FernandoLegarda 327077145\HW2_MemoryGame\obj\Debug\HW2_Main.csproj.CoreCompileInputs.cache
+C:\Users\fefel\Documents\GitHub\Csharp-class-HW\hw2\B24 Ex02 JoelElias 313914699 FernandoLegarda 327077145\HW2_MemoryGame\obj\Debug\HW2_Main.csproj.Up2Date
+C:\Users\fefel\Documents\GitHub\Csharp-class-HW\hw2\B24 Ex02 JoelElias 313914699 FernandoLegarda 327077145\HW2_MemoryGame\obj\Debug\HW2_MemoryGame.exe
+C:\Users\fefel\Documents\GitHub\Csharp-class-HW\hw2\B24 Ex02 JoelElias 313914699 FernandoLegarda 327077145\HW2_MemoryGame\obj\Debug\HW2_MemoryGame.pdb
+C:\Joel-Runi\Year-2\sem2\c#\hw1\Csharp-class-HW\hw2\B24 Ex02 JoelElias 313914699 FernandoLegarda 327077145\HW2_MemoryGame\bin\Debug\HW2_MemoryGame.exe.config
+C:\Joel-Runi\Year-2\sem2\c#\hw1\Csharp-class-HW\hw2\B24 Ex02 JoelElias 313914699 FernandoLegarda 327077145\HW2_MemoryGame\bin\Debug\HW2_MemoryGame.exe
+C:\Joel-Runi\Year-2\sem2\c#\hw1\Csharp-class-HW\hw2\B24 Ex02 JoelElias 313914699 FernandoLegarda 327077145\HW2_MemoryGame\bin\Debug\HW2_MemoryGame.pdb
+C:\Joel-Runi\Year-2\sem2\c#\hw1\Csharp-class-HW\hw2\B24 Ex02 JoelElias 313914699 FernandoLegarda 327077145\HW2_MemoryGame\bin\Debug\MemoryGame.exe
+C:\Joel-Runi\Year-2\sem2\c#\hw1\Csharp-class-HW\hw2\B24 Ex02 JoelElias 313914699 FernandoLegarda 327077145\HW2_MemoryGame\bin\Debug\MemoryGame.pdb
+C:\Joel-Runi\Year-2\sem2\c#\hw1\Csharp-class-HW\hw2\B24 Ex02 JoelElias 313914699 FernandoLegarda 327077145\HW2_MemoryGame\bin\Debug\MemoryGame.exe.config
+C:\Joel-Runi\Year-2\sem2\c#\hw1\Csharp-class-HW\hw2\B24 Ex02 JoelElias 313914699 FernandoLegarda 327077145\HW2_MemoryGame\obj\Debug\HW2_Main.csproj.AssemblyReference.cache
+C:\Joel-Runi\Year-2\sem2\c#\hw1\Csharp-class-HW\hw2\B24 Ex02 JoelElias 313914699 FernandoLegarda 327077145\HW2_MemoryGame\obj\Debug\HW2_Main.csproj.CoreCompileInputs.cache
+C:\Joel-Runi\Year-2\sem2\c#\hw1\Csharp-class-HW\hw2\B24 Ex02 JoelElias 313914699 FernandoLegarda 327077145\HW2_MemoryGame\obj\Debug\HW2_Main.csproj.Up2Date
+C:\Joel-Runi\Year-2\sem2\c#\hw1\Csharp-class-HW\hw2\B24 Ex02 JoelElias 313914699 FernandoLegarda 327077145\HW2_MemoryGame\obj\Debug\HW2_MemoryGame.exe
+C:\Joel-Runi\Year-2\sem2\c#\hw1\Csharp-class-HW\hw2\B24 Ex02 JoelElias 313914699 FernandoLegarda 327077145\HW2_MemoryGame\obj\Debug\HW2_MemoryGame.pdb
