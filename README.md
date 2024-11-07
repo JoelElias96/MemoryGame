@@ -1,6 +1,3 @@
-# Creating the README file content based on the user's request
-
-readme_content = """
 # Memory Game
 
 ## Project Overview
